@@ -1,5 +1,9 @@
 # Changelog - Iterate
 
-## Version 1.0.0  (2025-09-5)
+## Version 1.0.0
 
 - Initial version.
+
+## Version 1.0.2
+
+- Documentation updates

@@ -1,5 +1,7 @@
 # iterate
 
+[![Pub Package](https://img.shields.io/pub/v/event.svg?style=flat-square)](https://pub.dev/packages/iterate)
+
 Small helper iteration methods inspired by Ruby.
 
 ---
@@ -27,7 +29,7 @@ Use as an Iterable to chain methods
     .forEach(print);
 ```
 
-Each of these is an extension method on an integer which can (optionall) take a function as argument. If a function is provided, then it is executed for each value of the method. 
+Each of these is an extension method on an integer which can (optionally) take a function as argument. If a function is provided, then it is executed for each value of the method. 
 
 If a function is not provided as an argument, then an Iterable is returned. This allows for methods to be chained with existing methods like 'where', 'map' and 'forEach'.
 

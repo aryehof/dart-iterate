@@ -2,7 +2,7 @@
 // Use of this source code is governed by an Apache-2.0 license that can be
 // found in the LICENSE file.
 
-extension IntExtensions on int {
+extension IntegerExtensions on int {
   /// Calls the given `function` the number of times of the `receiver` value (>= 0).
   ///
   /// If no `function` is given, an `Iterable` is returned that supports chaining.

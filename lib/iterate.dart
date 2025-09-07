@@ -3,9 +3,6 @@
 // found in the LICENSE file.
 
 /// Integer extension methods for iteration (times, upto, downto).
-
 library;
 
 export 'src/iterate_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.

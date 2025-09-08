@@ -1,8 +1,11 @@
 # iterate
 
-[![Pub Package](https://img.shields.io/pub/v/event.svg?style=flat-square)](https://pub.dev/packages/iterate)
 
-Small helper iteration methods inspired by Ruby.
+
+![Pub Version](https://img.shields.io/pub/v/iterate?style=flat-square)
+
+
+Small Dart helper iteration methods inspired by Ruby.
 
 ---
 

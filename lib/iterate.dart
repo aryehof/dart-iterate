@@ -3,6 +3,6 @@
 // found in the LICENSE file.
 
 /// Integer extension methods for iteration (times, upto, downto).
-library;
+library iterate;
 
 export 'src/iterate_base.dart';

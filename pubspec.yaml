@@ -1,6 +1,6 @@
 name: iterate
-description: Small helper iteration methods inspired by Ruby
-version: 1.0.2
+description: Small Dart helper iteration methods inspired by Ruby
+version: 1.0.3
 repository: https://github.com/aryehof/dart-iterate
 
 environment:
